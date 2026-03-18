@@ -4,7 +4,6 @@ Machine Learning Engineer focused on building reliable, production-grade AI syst
 
 I design and develop LLM-driven applications, RAG pipelines, and applied ML solutions that move beyond prototypes into scalable, real-world products. My work emphasizes clean abstractions, strong system design, and maintainable architectures.
 
-I am particularly interested in translating research concepts into practical systems that are efficient, extensible, and built to scale gracefully.
 
 ## Core Focus
 
@@ -12,7 +11,7 @@ LLM Systems • Retrieval-Augmented Generation • Applied Machine Learning • 
 
 ## Tech Stack
 
-Python, PyTorch, Hugging Face, LangChain, FAISS, SQL
+Python, PyTorch, Hugging Face, LangChain, SQL
 
 ## Profile
 
